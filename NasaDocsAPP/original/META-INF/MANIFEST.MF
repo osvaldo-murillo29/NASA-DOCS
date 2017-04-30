@@ -1,0 +1,84 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_71 (Oracle Corporation)
+
+Name: res/anim/slide_exit.xml
+SHA1-Digest: ZX/raIXCvGGzgu+fvnYbcbkwl5o=
+
+Name: res/anim/slide_v_enter_reverse.xml
+SHA1-Digest: o6y8sVtIX+U/IVLmssNNO0HLJhM=
+
+Name: assets/WhatsAppImage2017-04-30at5.17.25AM.jpeg
+SHA1-Digest: 34AxG55MGqeRHLkBt3NUa4PNl6U=
+
+Name: res/anim/slide_enter_reverse.xml
+SHA1-Digest: G+o6PF81lzJHZGjIIUdM6ZH67RI=
+
+Name: resources.arsc
+SHA1-Digest: wkCgm+VIQD1OIA5w9R6dxB3kKyg=
+
+Name: res/anim/slide_enter.xml
+SHA1-Digest: Zq8vc9Y86WEOwIHvd2vvnF5LAjU=
+
+Name: AndroidManifest.xml
+SHA1-Digest: /uzPAKibieRPv8PudFSmreKomwk=
+
+Name: res/anim/fadeout.xml
+SHA1-Digest: 1RFOJzpf/Tnrt6Cz+YXKri/dcQs=
+
+Name: res/anim/hold.xml
+SHA1-Digest: GKBZZAVQp1UHWpdLvgRKYsaN968=
+
+Name: assets/WhatsAppImage2017-04-30at10.59.22AM.jpeg
+SHA1-Digest: pmNw3Kdkx6QdKhHLwvViMS93n/4=
+
+Name: assets/IMG-20170430-WA0012.jpg
+SHA1-Digest: RTrdG7G+sl7Z2hEtDPEnErKhdAc=
+
+Name: res/anim/zoom_enter.xml
+SHA1-Digest: AI9U9jd8y+rlzUpfZu9q4VZpvP0=
+
+Name: res/drawable/ya.png
+SHA1-Digest: 4wTE3kS+baN2kukZEXFvCxBQ9Ek=
+
+Name: res/anim/slide_v_exit_reverse.xml
+SHA1-Digest: BmxIVohKX0sSkZa5gB/EAfFftlU=
+
+Name: res/anim/fadein.xml
+SHA1-Digest: xsEvJd6+HxCGf8W9bRNyDJagnZ0=
+
+Name: res/anim/zoom_enter_reverse.xml
+SHA1-Digest: kvKMcrPGTjRGBwIpiaKwUQ4F/bY=
+
+Name: assets/WhatsAppImage2017-04-30at12.21.22PM.jpeg
+SHA1-Digest: Zx7ZS10NKEjE5TaKjren28854hs=
+
+Name: classes.dex
+SHA1-Digest: nxnhlw13rD2Bk/Gorg5T2htX/4U=
+
+Name: res/anim/zoom_exit.xml
+SHA1-Digest: ioBRfr3sxqvTP2Dsfg9bfrBu5NA=
+
+Name: assets/WhatsAppImage2017-04-30at10.59.22AM(1).jpeg
+SHA1-Digest: pmNw3Kdkx6QdKhHLwvViMS93n/4=
+
+Name: res/anim/slide_exit_reverse.xml
+SHA1-Digest: VE6Oh3BHy1caiImNmGoeHwMHt/I=
+
+Name: res/anim/slide_v_enter.xml
+SHA1-Digest: VwO+DjHaulKaPlqfDFwicM7taAM=
+
+Name: res/anim/slide_v_exit.xml
+SHA1-Digest: 9lXf30b08R2I7vWxAXL3x4EnFZU=
+
+Name: assets/c48d19eabc613e4828d830db3e7f7217.jpg
+SHA1-Digest: PNJHk6svDXPr/ojQkq0EWqeTsUM=
+
+Name: assets/MediaTierra.jpg
+SHA1-Digest: HUJ33CQzHqw7f86ZpNDn08J/7G4=
+
+Name: assets/icon.jpeg
+SHA1-Digest: nqo2G0OmLmSzNtbkERi43NxSDlw=
+
+Name: res/anim/zoom_exit_reverse.xml
+SHA1-Digest: kzP0svpVXrshXRVnbxlRXjrmKZo=
+
